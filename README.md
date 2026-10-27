@@ -2,7 +2,7 @@
 
 A cozy scrapbook with three photo carousels, two love-note boxes, Sudoku, Word garden, and a hidden design studio.
 
-Site: https://sethkail.github.io/our-little-scrapbook/
+Site: https://sethkail.github.io/itsjustus/
 
 ## Edit and publish
 
